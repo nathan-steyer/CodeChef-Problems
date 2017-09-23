@@ -26,7 +26,7 @@ public class Main
 
         for (int i = 1; i <= n; i++)
         {
-            kingdom[i].product = (scanner.nextInt());
+            kingdom[i].product = scanner.nextInt();
         }
         int q = scanner.nextInt();
         for (int i = 0; i < q; i++)
